@@ -95,6 +95,8 @@ Configure el perfil de esa cuenta de modo que incluya una imagen (fotografía) e
 Para la configuración de esa cuenta se le recomienda usar su nombre real, puesto que sus repositorios de código en GitHub
 pasarán a formar parte de su curriculum profesional.
 
+Todas las prácticas que se realicen en la asignatura han de estar alojadas en repositorios privados de GitHub.
+
 5. Para editar algunos ficheros en esta sesión se usará el editor [vim](https://www.vim.org/).
 Estudie los primeros pasos de [este tutorial](https://blog.desdelinux.net/usando-vim-tutorial-basico/) para que
 aprenda lo básico sobre cómo modificar un fichero usando vi.
