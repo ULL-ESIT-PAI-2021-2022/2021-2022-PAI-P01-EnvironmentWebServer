@@ -240,6 +240,13 @@ muestra el paso 2 del apartado "Connect to a remote host" de esas instrucciones 
 muestra la ventana de autentificación de VSC para darle acceso a la máquina virtual.  
 Una vez completado este proceso se podrán editar ficheros en la máquina virtual usando VSC.
 
+En VSC hay disponibles múltiples extensiones que pueden resultar útiles para el trabajo en la asignatura y que irá Ud. descubriendo
+conforme avance en el estudio de la materia.
+La extensión
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+es particularmente útil porque permite lanzar un servidor web local en el que se pueden visualizar las páginas (HTML) que se desarrollarán
+en la asignatura.
+
 15. **TAREA #06** Utilice el VSC para editar de forma remota el código fuente del programa 
 [computePI.js](https://github.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P01-EnvironmentWebServer/blob/master/www/js/computePI.js)
 que se encuentra en el directorio `www/js/` del proyecto de esta práctica.
